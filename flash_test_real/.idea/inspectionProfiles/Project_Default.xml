@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="flash.Frame" />
+          <option value="flash.StringVar" />
+          <option value="tkinter.Toplevel" />
+          <option value="flash.NORMAL" />
+          <option value="flash.DISABLED" />
+          <option value="flash.END" />
+          <option value="flash.RIGHT" />
+          <option value="flash.BOTH" />
+          <option value="flash.Text" />
+          <option value="flash.W" />
+          <option value="flash.Y" />
+          <option value="flash.Tk" />
+          <option value="flash_test.END" />
+          <option value="flash_test.NORMAL" />
+          <option value="flash_test.DISABLED" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
